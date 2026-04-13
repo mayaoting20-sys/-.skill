@@ -1,10 +1,25 @@
-# 人情世故.skill
+[README.md](https://github.com/user-attachments/files/26673398/README.md)
+<div align="center">
+
+# 人情事故.skill
+
+> "高情商不是天生的，是练出来的。"
+
+**三大功能：重要人物管理 · 糊弄学回复 · 社交危机处理**
 
 ![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-orange) ![License](https://img.shields.io/badge/License-MIT-blue) ![Language](https://img.shields.io/badge/语言-中文-red)
 
-> "高情商不是天生的，是AI出来的。"
+---
 
-**三大功能：重要人物生日管理 · 糊弄学回复 · 社交危机处理**
+把人情世故的潜规则封装成 AI Skill
+
+领导说了什么不知道怎么回？手滑点了前任的赞？同事炫耀孩子你不感兴趣？
+
+**说给它听，它帮你处理。**
+
+[安装](#安装) · [使用场景](#使用场景) · [废话文学彩蛋](#废话文学彩蛋)
+
+</div>
 
 ---
 
@@ -21,6 +36,8 @@
 ```bash
 npx skills add mayaoting20-sys/renqing-skill
 ```
+
+---
 
 ## 使用场景
 
@@ -42,17 +59,26 @@ npx skills add mayaoting20-sys/renqing-skill
 
 ## 废话文学彩蛋
 
-> 被问到不想回答的问题时：
-> **「这个问题问得很好，值得好好想想。」**
+<div align="center">
 
-> 对方分享了你完全不感兴趣的事：
-> **「哇，这件事真的让我看到了一些之前没有看到过的东西。」**
+被问到不想回答的问题时：
 
-> 被问支持A还是B：
-> **「我觉得A和B其实都在用自己的方式表达同一件事，只是路径不同，殊途同归嘛。」**
+**「这个问题问得很好，值得好好想想。」**
+
+对方分享了你完全不感兴趣的事：
+
+**「哇，这件事真的让我看到了一些之前没有看到过的东西。」**
+
+被问支持A还是B：
+
+**「我觉得A和B其实都在用自己的方式表达同一件事，只是路径不同，殊途同归嘛。」**
+
+</div>
 
 ---
 
-## 免责声明
+<div align="center">
 
 本 Skill 仅用于提升社交润滑度，不鼓励虚伪，鼓励真实。废话文学请适量使用。
+
+</div>
