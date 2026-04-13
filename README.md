@@ -1,10 +1,10 @@
-# 人情世故助手（Renqing Skill）
+# 人情世故.skill
 
 ![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-orange) ![License](https://img.shields.io/badge/License-MIT-blue) ![Language](https://img.shields.io/badge/语言-中文-red)
 
-> "高情商不是天生的，是练出来的。"
+> "高情商不是天生的，是AI出来的。"
 
-**三大功能：重要人物管理 · 糊弄学回复 · 社交危机处理**
+**三大功能：重要人物生日管理 · 糊弄学回复 · 社交危机处理**
 
 ---
 
